@@ -1,0 +1,6 @@
+
+### Teste da aplicação
+
+#GET http://localhost:5191
+
+GET http://localhost:5191/api/carros
